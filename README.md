@@ -1,11 +1,15 @@
-# bressix LABs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bressix/bressix/main/bressix_LABs_01.png" alt="bressix LABs" width="600"/>
+</p>
+
+# ⚡ bressix LABs
 
 <details>
 <summary>🇺🇸 English Version (Click to expand)</summary>
 
 Welcome to the development and engineering profile of **bressix LABs**. Here we centralize corporate automation, infrastructure security, custom firmwares, and hardware prototyping solutions.
 
-### Focus & Areas of Expertise
+### 🎯 Focus & Areas of Expertise
 - **Crypto & Security:** SSL/TLS auditing, certificate chain validation, and digital identity lifecycle automation.
 - **Embedded Hardware:** Tactical field tools, local telemetry, and closed-loop control (PID).
 - **System Tuning:** Linux-based OS optimization (Debian/Parrot OS), desktop environment automation, and auditing workstation setups.
@@ -19,7 +23,7 @@ Welcome to the development and engineering profile of **bressix LABs**. Here we 
 
 Bem-vindo ao perfil de desenvolvimento e engenharia da **bressix LABs**. Aqui centralizamos soluções de automação corporativa, segurança de infraestrutura, firmwares customizados e prototipagem de hardware.
 
-### Áreas de Atuação & Foco
+### 🎯 Áreas de Atuação & Foco
 - **Crypto & Security:** Auditoria SSL/TLS, análise de cadeias de certificação e automação de ciclo de vida de identidades digitais.
 - **Embedded Hardware:** Desenvolvimento de ferramentas táticas de campo, telemetria local e controle em malha fechada (PID).
 - **System Tuning:** Otimização de sistemas baseados em Linux (Debian/Parrot OS), automação de interfaces e setup de estações de auditoria.
